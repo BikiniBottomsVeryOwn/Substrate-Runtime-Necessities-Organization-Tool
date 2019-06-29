@@ -5,8 +5,9 @@
     
     
     /*A function that creates a new pending block based on the previous block's header.
-    The header includes:
-        The block height;*/
+    The header includes: */
+
+        /*The block height;*/
 
         
         //Code here
