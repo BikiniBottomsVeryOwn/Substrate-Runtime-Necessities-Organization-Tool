@@ -1,6 +1,6 @@
 /*Helpful resources: 
-    -https://substrate.dev/recipes/intro/index.html
-    -https://doc.rust-lang.org/stable/rust-by-example/ */
+    https://substrate.dev/recipes/intro/index.html
+    https://doc.rust-lang.org/stable/rust-by-example/ */
     
     
     
