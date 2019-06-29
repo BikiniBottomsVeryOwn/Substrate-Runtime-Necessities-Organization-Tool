@@ -1,4 +1,5 @@
 /*Helpful resources: 
+    https://github.com/rust-dev-tools/fmt-rfcs/blob/master/guide/guide.md
     https://substrate.dev/recipes/intro/index.html
     https://doc.rust-lang.org/stable/rust-by-example/ */
     
